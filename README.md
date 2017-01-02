@@ -10,3 +10,5 @@ Créez plusieurs programmes qui permettent de faire des opérations simples en l
 - node substract.js 9 12
 - node multiply.js 8 9
 - node divide.js 9 7
+
+Attention, les fichiers js présentés ici sont les corrections de ces exercices alors cherchez un peu avant d'y jeter un oeil.
