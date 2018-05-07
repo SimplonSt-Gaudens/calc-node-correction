@@ -12,3 +12,6 @@ Créez plusieurs programmes qui permettent de faire des opérations simples en l
 - node divide.js 9 7
 
 Attention, les fichiers js présentés ici sont les corrections de ces exercices alors cherchez un peu avant d'y jeter un oeil.
+
+# Bonus
+Créez une appli en js uniquement qui propose ces quatres opérations via des imports des fichiers existants. 
