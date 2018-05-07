@@ -15,3 +15,4 @@ Attention, les fichiers js présentés ici sont les corrections de ces exercices
 
 # Bonus
 Créez une appli en js uniquement qui propose ces quatres opérations via des imports des fichiers existants. 
+Pour faire les choses bien, utilisez yargs.
